@@ -1,0 +1,210 @@
+/* Latop Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    .app-shape-02 {
+        right: 50px;
+    }
+
+
+    
+}
+
+
+/* LG  Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .main-menu ul li {
+        margin: 0 10px;
+    }
+    .slider-height {
+        min-height: 1060px;
+    }
+    .shape-02 {
+        left: 59%;
+        bottom: 29%;
+    }
+    .features-text {
+        margin: 0;
+    }
+    .how-work-text {
+        padding-top: 50px;
+    }
+    .latest-blog-content {
+        padding: 0 20px;
+    }
+
+    .inner-blog {
+        padding: 25px 25px;
+    }
+
+
+}
+
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+
+    .slider-height {
+        min-height: 980px;
+        background-position: bottom;
+    }
+    .slider-content-space {
+        padding-top: 250px;
+    }
+    .shape-02 {
+        bottom: 21%;
+    }
+    .features-text {
+        margin: 0;
+    }
+    .how-work-text {
+        padding-top: 0;
+        margin-bottom: 60px;
+    }
+    .subscribe-title {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .inner-blog {
+        padding: 25px 25px;
+    }
+    .slide-text {
+        padding-top: 255px;
+    }
+    .header-cta span {
+        margin-right: 25px;
+    }
+    .logo {
+        position: absolute;
+        left: 0;
+        top:0px;
+    }
+    a.shopping-cart {
+        display: none;
+    }
+    .header-right a {
+        display: none;
+    }
+    .menu-area {
+        padding: 20px 0px;
+    }
+    .slide-text h2 {
+        font-size: 60px;
+    }
+   
+
+}
+
+
+/* small mobile (XS) :320px. */
+@media (max-width: 767px) {
+    .shape-wrapper {
+        display: none;
+    }
+    .slider-content-space {
+        padding-top: 100px;
+    }
+    .slide-text h2 {
+        font-size: 25px;
+    }
+    .slide-text p {
+        font-size: 16px;
+        line-height: 25px;
+        margin-bottom: 27px;
+    }
+    .slider-btn a {
+        margin-bottom: 10px;
+    }
+    .slider-height {
+        min-height: 800px;
+        background-position: bottom;
+    }
+    .video-wrapper {
+        background-size: cover;
+        background-position: center;
+    }
+    .video-wrapper i {
+        height: 100px;
+        width: 100px;
+        font-size: 20px;
+        line-height: 100px;
+    }
+    .how-work-text {
+        padding-top: 0;
+    }
+    .pricing-area {
+        padding-top: 50px;
+    }
+    .slider-height {
+        min-height: 500px;
+        background-position: center;
+    }
+    .subscribe-form button {
+        position: static;
+        width: 100%;
+        margin-top: 9px;
+    }
+    .subscribe-title h3 {
+        margin-bottom: 20px;
+    }
+    .available-text h2 {
+        font-size: 35px;
+    }
+    .slide-text {
+        padding-top: 255px;
+    }
+    .logo {
+        position: absolute;
+        left: 0;
+        top:0px;
+    }
+    a.shopping-cart {
+        display: none;
+    }
+    .header-right a {
+        display: none;
+    }
+    .menu-area {
+        padding: 20px 0px;
+    }
+    .slide-text h2 {
+        font-size: 60px;
+    }
+    .header-top-bar {
+        padding: 0;
+        border: none;
+    }
+    .menu-area {
+        padding: 20px 15px;
+    }
+    .video-wrapper a {
+        position: relative;
+    }
+    .fa-play:before {
+        content: "\f04b";
+        position: absolute;
+        left: 41%;
+        top: -13%;
+    }
+    .single-face {
+        text-align: center;
+    }
+    .fact-icon.f-left {
+        float: none;
+        margin-bottom: 11px;
+    }
+    .single-team {
+        float: none;
+        width: 100%
+    }
+    .features-area{
+        padding-bottom: 80px;
+    }
+
+
+}
+
+
+/* SM Device :480px. */
+@media only screen and (min-width: 550px) and (max-width: 767px) {
+
+
+}
